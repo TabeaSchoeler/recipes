@@ -1,5 +1,6 @@
 # Ingredients 
 
 -lime
+-salt
 # Instructions
 
