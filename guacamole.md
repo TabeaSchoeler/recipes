@@ -1,6 +1,5 @@
 # Ingredients 
 
--lime
--salt
+-lemons
 # Instructions
 
